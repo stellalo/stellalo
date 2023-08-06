@@ -1,13 +1,11 @@
-<h1>Hi, I'm Stella! <br/><a href="https://www.lablabella.com">Bioinformatics Data Researcher</a>, <a href="https://stella-lo.webflow.io/work/museumapp"> App Developer </a>, <a href="https://www.youtube.com/c/joshmadakor">UI/UX Designer</a></h1>
+<h1>Hi, I'm Stella! <br/><a href="https://www.lablabella.com">Bioinformatics Data Researcher</a>, <a href="https://github.com/stellalo/Museum2022/tree/main"> App Developer </a>, <a href="https://stella-lo.webflow.io">UI/UX Designer</a></h1>
 
 <h2>🧬 Bioinformatics Projects:</h2>
 
-- <b>Random Forest Algorithm Scripts (ML Algorithm, R Markdown, packages) </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Boxplots (R Markdown, ggplot2)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>KEGG Analysis of Yeast Species (ML Algorithm, R Markdown, packages) </b>
+  - [Random Forest Algorithm Scripts](https://github.com/stellalo/random_forest_kegg)
+  - [Boxplot Data Analysis (R, ggplot2, data visualization, data distribution)](https://github.com/stellalo/boxplots)
+  - [Data Comparison Scripts (OOB, MeanDecreaseAccuracy, MeanDecreaseGini, species misclassification)](https://github.com/stellalo/kegg_data_comparison)
 
 <h2>📱 App Development Projects </h2>
 
