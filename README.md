@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stella! <br/><a href="https://www.lablabella.com">Bioinformatics Researcher</a>, <a href="https://stella-lo.webflow.io/work/museumapp"> App Developer </a>, <a href="https://www.youtube.com/c/joshmadakor">UI/UX Designer</a></h1>
+<h1>Hi, I'm Stella! <br/><a href="https://www.lablabella.com">Bioinformatics Data Researcher</a>, <a href="https://stella-lo.webflow.io/work/museumapp"> App Developer </a>, <a href="https://www.youtube.com/c/joshmadakor">UI/UX Designer</a></h1>
 
 <h2>🧬 Bioinformatics Projects:</h2>
 
@@ -15,6 +15,12 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
+<h2>🐍 Python Projects </h2>
+
+- [Find Celia a Boyfriend](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- [Vending Machine](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+  
 <h2>📜 Certificates </h2>
 
 - <b>iOS Foundations</b>
