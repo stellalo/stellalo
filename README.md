@@ -2,7 +2,7 @@
 
 <h2>🧬 Bioinformatics Projects:</h2>
 
-- <b>KEGG Analysis of Yeast Species (ML Algorithm, R Markdown, packages) </b>
+- <b>KEGG Analysis of Yeast Species (ML Algorithm, R Markdown, boxplots) </b>
   - [Random Forest Algorithm Scripts](https://github.com/stellalo/random_forest_kegg)
   - [Boxplot Data Analysis (R, ggplot2, data visualization, data distribution)](https://github.com/stellalo/boxplots)
   - [Data Comparison Scripts (OOB, MeanDecreaseAccuracy, MeanDecreaseGini, species misclassification)](https://github.com/stellalo/kegg_data_comparison)
