@@ -11,7 +11,7 @@
 
 <h2>📱 App Development Projects </h2>
 
-- [MUSEUM APP (SwiftUI, cocoapods, Firebase)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/stellalo/Museum2022/tree/main))
+- [MUSEUM APP (SwiftUI, cocoapods, Firebase)](https://github.com/stellalo/Museum2022/tree/main)
 
 <h2>🐍 Python Projects </h2>
 
