@@ -15,28 +15,18 @@
 
 <h2>🐍 Python Projects </h2>
 
-- [Find Celia a Boyfriend](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- [Vending Machine](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Find Celia a Boyfriend](https://github.com/stellalo/find_celia_a_boyfriend)
+- [Vending Machine](https://github.com/stellalo/vending_machine)
 
   
 <h2>📜 Certificates </h2>
 
-- <b>iOS Foundations</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>The Complete App Design Course - UX, UI and Design Thinking<b>
-  - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [iOS Foundations](https://codewithchris.com)
+- [The Complete App Design Course - UX, UI and Design Thinking](https://www.udemy.com/certificate/UC-4fc2d58e-452e-405c-9721-3fc3bf63b2b5/)
 
-  
-<h2> 👩🏻‍💻 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/stella-l-5646b5b9/)
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stellalo/stellalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
