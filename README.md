@@ -14,7 +14,6 @@
 <h2>🐍 Python Projects </h2>
 
 - [Find Célia a Boyfriend](https://github.com/stellalo/find_celia_a_boyfriend)
-- [Vending Machine](https://github.com/stellalo/vending_machine)
 
   
 <h2>📜 Certificates </h2>
