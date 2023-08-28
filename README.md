@@ -16,12 +16,6 @@
 - <b>Data Visualization</b>
   - [Most googled Female Stanford Student (Data visualization, Google Trend, Flourish)](https://github.com/stellalo/most_googled_female_stanford_student/tree/main)
 
-  
-<h2>📜 Certificates </h2>
-
-- [iOS Foundations](https://codewithchris.com)
-- [The Complete App Design Course - UX, UI and Design Thinking](https://www.udemy.com/certificate/UC-4fc2d58e-452e-405c-9721-3fc3bf63b2b5/)
-
 
 <!--
 **stellalo/stellalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
