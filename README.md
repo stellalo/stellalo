@@ -13,8 +13,6 @@
   - [MUSEUM APP (App development, SwiftUI, cocoapods, Firebase)](https://github.com/stellalo/Museum2022/tree/main)
 - <b>Python Projects</b>
   - [Find Célia a Boyfriend](https://github.com/stellalo/find_celia_a_boyfriend)
-- <b>Data Visualization</b>
-  - [Most googled Female Stanford Student (Data visualization, Google Trend, Flourish)](https://github.com/stellalo/most_googled_female_stanford_student/tree/main)
 
 
 <!--
