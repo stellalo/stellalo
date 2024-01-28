@@ -2,7 +2,7 @@
 
 <h2>📈 Data Engineering Projects:</h2>
 
-- <b>Data Engineering Zoomcamp Capstone Project (Terraform, Prefect, GCS, dbt, Google Data Studio, Python) </b>
+- <b>Data Engineering Zoomcamp Capstone Project (Terraform, Prefect, GCS, BigQuery, dbt, Google Data Studio, Python) </b>
   - [KEGG Data Analysis - MeanDecreaseAccuracy and MeanDecreaseGini](https://github.com/stellalo/Data-Engineering-Capstone-KEGG-dataset-)
 
 <h2>🧬 Bioinformatics Projects:</h2>
