@@ -1,5 +1,10 @@
 <h1>Hi, I'm Stella! <br/><a href="https://www.lablabella.com">Bioinformatics Data Researcher</a>, <a href="https://github.com/stellalo/Museum2022/tree/main"> App Developer </a>, <a href="https://stella-lo.webflow.io">UI/UX Designer</a></h1>
 
+<h2>📈 Data Engineering Projects:</h2>
+
+- <b>Data Engineering Zoomcamp Capstone Project (Terraform, Prefect, GCS, dbt, Google Data Studio, Python) </b>
+  - [KEGG Data Analysis - MeanDecreaseAccuracy and MeanDecreaseGini](https://github.com/stellalo/Data-Engineering-Capstone-KEGG-dataset-)
+
 <h2>🧬 Bioinformatics Projects:</h2>
 
 - <b>KEGG Analysis of Yeast Species (ML Algorithm, R Markdown, boxplots) </b>
