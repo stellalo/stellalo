@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stella! <br/><a href="https://www.lablabella.com">Bioinformatics Data Researcher</a>, <a href="https://github.com/stellalo/Museum2022/tree/main"> App Developer </a>, <a href="https://stella-lo.webflow.io">UI/UX Designer</a></h1>
+<h1>Hi, I'm Stella! <br/><a href="https://www.lablabella.com">Bioinformatics Data Researcher</a>, <a href="https://github.com/stellalo/Museum2022/tree/main"> Front-End Developer </a>, <a href="https://stella-lo.webflow.io">UI/UX Designer</a></h1>
 
 <h2>📈 Data Engineering Projects:</h2>
 
